@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "build": 17,
-  "candidate": "1.0.0-rc.5",
+  "build": 18,
+  "candidate": "1.0.0-rc.6",
   "minimum_macos": "14.0",
   "site": "38a9a31b-5736-43d2-b148-c60fa058ddbf",
   "owner": "lihaomeiman-sketch",
   "repository": "personal-work-agent-downloads",
   "owner_confirmed": true,
   "links_enabled": true,
-  "archive": "Personal-Work-Agent-1.0.0-rc.5-Notarized.zip",
-  "sha256": "9a31bd4f28a34f005c1db4dba78c3305f2bff987963a4c095d5810a4d815113b",
+  "archive": "Personal-Work-Agent-1.0.0-rc.6-Notarized.zip",
+  "sha256": "cc17a2b071138a8244f4fab15a21121a6c0500ba0108d2cbbef2e5bcda87fa52",
   "developer_id_signed": true,
   "notarized": true
 }
